@@ -1,2 +1,2 @@
 # Strategy
-commit 3
+commit 6
