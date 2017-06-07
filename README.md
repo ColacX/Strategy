@@ -1,2 +1,2 @@
 # Strategy
-commit 11.2
+commit 20
