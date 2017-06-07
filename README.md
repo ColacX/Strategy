@@ -1,2 +1,2 @@
 # Strategy
-commit 24
+commit 25.5
