@@ -1,2 +1,2 @@
 # Strategy
-commit 31
+commit 32
