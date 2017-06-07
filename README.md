@@ -1,2 +1,2 @@
 # Strategy
-commit 18
+commit 18 hotfix 1
