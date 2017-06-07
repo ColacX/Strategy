@@ -1,2 +1,2 @@
 # Strategy
-commit 22
+commit 23
